@@ -1,7 +1,7 @@
 .banner {
-    display: flex;
+    display: block;
     flex-direction: column;
-    /* salign-items: center; */
+    /* align-items: center; */
     background-color: rgb(198, 228, 214);
     height: 560px;
     width: 1280px;
@@ -9,25 +9,51 @@
     margin-right: 160px;
 }
 
-div  p {
+div p {
     font-size: 24px;
     width: 622px;
     height: 29px;
     flex-direction: column;
-    padding-top: 117px;
+    padding-top: 100px;
     padding-left: 60px;
-
+    padding-bottom: 0px;
     color: rgba(14, 14, 14, 0.5);
+   
 
 }
+
 .banner-text p {
     font-size: 56px;
     font-weight: 700;
     width: 622px;
     height: 210px;
     flex-direction: column;
-    padding-top: 5px;
+    padding-top: 0px;
     padding-left: 60px;
-    color:rgb(14, 14, 14)
+    color: rgb(14, 14, 14)
+    
+}
 
+.btn {
+    width: 270px;
+    height: 56px;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    margin-left: 60px;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+    font-weight: 600;
+
+    text-align: center;
+}
+.banner-img { 
+    /* display: flex; */
+    /* flex-direction: row; */
+    width: 470px;
+    height: 330px;
+    margin-left: 750px;
+    margin-top: -430px;
+    
+   
+    
 }
