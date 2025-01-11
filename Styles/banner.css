@@ -1,7 +1,6 @@
 .banner {
     display: block;
     flex-direction: column;
-    /* align-items: center; */
     background-color: rgb(198, 228, 214);
     height: 560px;
     width: 1280px;
