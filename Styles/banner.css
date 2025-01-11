@@ -47,8 +47,8 @@ div p {
     text-align: center;
 }
 .banner-img { 
-    /* display: flex; */
-    /* flex-direction: row; */
+     display: flex; 
+     flex-direction: row; 
     width: 470px;
     height: 330px;
     margin-left: 750px;
