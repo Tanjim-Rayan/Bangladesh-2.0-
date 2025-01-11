@@ -1,12 +1,15 @@
-section>div>h2 {
+.pillars {
+    display: flex;
+    justify-items: center;
     margin-top: 80px;
     margin-left: 160px;
-    margin-right: 160px;
+    margin-right: 160px; 
+    margin-bottom: 100px ;
     height: 48px;
     width: 1280px;
     font-size: 40px;
     font-weight: 800;
-    text-align: left;
+    text-align: center;
 
 }
 
