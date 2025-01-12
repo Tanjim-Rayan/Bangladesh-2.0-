@@ -5,7 +5,7 @@
     justify-content: space-between;
     align-items: center;
     height: 80px;
-    width: 1600px;
+    width: 1500px;
 }
 
 h3 {
@@ -16,7 +16,7 @@ h3 {
     font-size: 30px;
     font-weight: bold;
 }
-button .btn {
+.btn {
     margin-right: 160px; 
     width: 55px;
     height: 20px;
