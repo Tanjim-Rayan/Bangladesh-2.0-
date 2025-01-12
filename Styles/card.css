@@ -1,0 +1,83 @@
+.card-container {
+    display: inline-flex;
+    flex-direction: row;
+    height: 350px;
+    width: 1280px;
+    margin-left: 160px;
+    margin-right: 160px;
+    justify-content: space-evenly;
+
+}
+
+.size {
+    height: 325px;
+    width: 410px;
+    padding: 20px;
+}
+
+.size p {
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    padding: 0px;
+    margin-bottom: 80px;
+
+}
+
+.size div button {
+    width: 150px;
+    height: 50px;
+    padding: 50px;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+
+.tech1 {
+    box-sizing: border-box;
+    border-radius: 16px;
+
+    background: rgba(84, 144, 245, 0.2);
+}
+
+.tech2 {
+    box-sizing: border-box;
+    border-radius: 16px;
+
+    background: rgb(198, 228, 214);
+
+}
+
+.tech3 {
+    box-sizing: border-box;
+    border-radius: 16px;
+
+    background: rgb(247, 235, 207);
+}
+.btn1 {
+    background: #5490F5;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    padding: 11px 20px 11px 20px;
+    border-radius: 8px;
+}
+.btn2 {
+    background: rgb(9, 161, 92);
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    padding: 11px 20px 11px 20px;
+    border-radius: 8px;
+}
+.btn3 {
+    background: rgb(255, 194, 57);
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: center;
+    padding: 11px 20px 11px 20px;
+    border-radius: 8px;
+}
